@@ -2,7 +2,7 @@
 
 An evaluation framework and interactive interface for the privacy-utility trade-off in spatially aggregated origin-destination (OD) mobility data, demonstrated on the Bangkok taxi trajectory dataset.
 
-This repository contains the code developed for the Master's thesis *"The Privacy-Utility Trade-off in Spatial Aggregation: An Evaluation Framework for Origin-Destination Flow Visualization."*
+This repository contains the code developed for the Master's thesis *"The Privacy-Utility Trade-off in Spatial Aggregation: An Evaluation Framework for Origin-Destination Flow Visualization."* This thesis was completed as part of the Erasmus Mundus Master's programme in Cartography (MSc Cartography).
 
 ## Overview
 
@@ -89,7 +89,7 @@ Bangkok taxi trajectory data (November 2025), published as open data by the [iTI
 
 If you use this framework or code, please cite:
 
-> Sirinapaphan, S. (2026). \*The Privacy-Utility Trade-off in Spatial Aggregation: An Evaluation Framework for Origin-Destination Flow Visualization\* \[Master's thesis]. \Technische Universität Dresden.
+> Sirinapaphan, S. (2026). *The Privacy-Utility Trade-off in Spatial Aggregation: An Evaluation Framework for Origin-Destination Flow Visualization* [Master's thesis, Technische Universität Dresden]. Technische Universität Dresden.
 
 ## Author
 
